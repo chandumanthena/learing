@@ -1,2 +1,0 @@
-# learing
-learning new github
